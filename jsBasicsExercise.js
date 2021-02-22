@@ -1,5 +1,5 @@
 // #1
-console.log("34");
+console.log(34);
 
 // #2
 // Numbers, Strings, Booleans, null and undefined
