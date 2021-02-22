@@ -21,7 +21,7 @@ console.log("Wanda" + "Vision");
 console.log("Grant".length + "Patterson".length);
 
 // #8
-console.log("Avengers: Endgame"[2]);
+console.log("Avengers: Endgame"[16]);
 
 // BONUS
 // #1
